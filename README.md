@@ -9,7 +9,14 @@
 
 #### I love to explore and build web technologies and built many projects in this area to showcase my learnings and skills I have.
 
-### [Checkout my Projects repos here](https://github.com/developers-codz?tab=repositories)
+### [Checkout my Project repos here](https://github.com/developers-codz?tab=repositories)
+
+----
+
+### 📫 How to reach me: 
+**kajal2002barnawal@gmail.com**
+
+----
 
 I have also contributed in [hacktoberfest ](https://hacktoberfest.digitalocean.com/) and done a web development internship in an eary start-up
 
@@ -33,6 +40,8 @@ I have also contributed in [hacktoberfest ](https://hacktoberfest.digitalocean.c
   
  </div>
  
+ ---
+ 
  ## ✍️ Recent Blog Posts
  
 
@@ -48,7 +57,7 @@ I have also contributed in [hacktoberfest ](https://hacktoberfest.digitalocean.c
   </tr>
 </table>
 
-
+---
 
 ## 📊 Github Stats
 
@@ -65,8 +74,12 @@ I have also contributed in [hacktoberfest ](https://hacktoberfest.digitalocean.c
   
 ## 🌍 Find me across the globe
 
+
 <a href="https://twitter.com/Kajal3310"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/kajal-kumari-52bab41aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://dev.to/developerscodz"><img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+<a href="https://hashnode.com/@Kajalkaju"><img src="https://img.shields.io/badge/hashnode-0077b5?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+
 
   
 
