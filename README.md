@@ -52,6 +52,7 @@ I have also contributed in [hacktoberfest ](https://hacktoberfest.digitalocean.c
 
 - [Getting Started with styled components](https://developers-codz.hashnode.dev/getting-started-with-styled-component)
 - [Understanding javascript prototype](https://developers-codz.hashnode.dev/understanding-javascript-prototype)
+- [React Hooks in one go!](https://developers-codz.hashnode.dev/react-hooks-in-one-go)
  
 </td>
   </tr>
