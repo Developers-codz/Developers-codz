@@ -1,7 +1,7 @@
 <div align="center">
 <h1 >Hi 👋, I'm Kajal Kumari</h1>
 
-<h3>A passionate web developer and learner, love to design and develop web stuffs.</h3>
+<h3>A passionate web developer and learner, love to design and develop web stuff.</h3>
 
 [![](https://komarev.com/ghpvc/?username=developers-codz)](https://github.com/developers-codz) 
 
@@ -9,7 +9,7 @@
 
 #### I love to explore and build web technologies and built many projects in this area to showcase my learnings and skills I have.
 
-### [Checkout my Project repos here](https://github.com/developers-codz?tab=repositories)
+### [Checkout my Projects here](https://github.com/developers-codz?tab=repositories)
 
 ----
 
